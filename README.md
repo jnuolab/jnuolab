@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student** focused on learning software development by building real projects from scratch.
+I'm a **focused** on learning software development by building real projects from scratch.
 
 I'm interested in exploring different areas of technology, improving my programming skills and learning how software is designed and developed.
 
